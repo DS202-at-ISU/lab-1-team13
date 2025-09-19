@@ -17,3 +17,24 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+### step 12.1 
+- Nayan's Note: Had no issues
+
+### step 12.2
+- Nayan's note: Had no issues
+
+### step 12.3
+- Nayan's note: Had no issues
+
+### step 12.4
+- Nayan's note: Had no issues
+
+### step 12.5
+- Nayan's note: Had issues pushing from the right github account, previous
+github account was linked previously. Resolve by resetting the git config
+username and email. 
+
+### step 12.6
+- Nayan's note: Had no issues
+

@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LpHtQdRY)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,29 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+### step 12.1
+
+- Nayan’s Note: Had no issues
+
+### step 12.2
+
+- Nayan’s note: Had no issues
+
+### step 12.3
+
+- Nayan’s note: Had no issues
+
+### step 12.4
+
+- Nayan’s note: Had no issues
+
+### step 12.5
+
+- Nayan’s note: Had issues pushing from the right github account,
+  previous github account was linked previously. Resolve by resetting
+  the git config username and email.
+
+### step 12.6
+
+- Nayan’s note: Had no issues
