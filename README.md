@@ -20,25 +20,31 @@ you are done with your submission.
 ### step 12.1
 
 - Nayan’s Note: Had no issues
+- Arina’s note: R and RStudio already set up, no issues
 
 ### step 12.2
 
 - Nayan’s note: Had no issues
+- Arina’s note: Accepted GitHub Classroom invite
 
 ### step 12.3
 
 - Nayan’s note: Had no issues
+- Arina’s note: Cloned fine, project opened in RStudio
 
 ### step 12.4
 
 - Nayan’s note: Had no issues
+- Arina’s note: Edited and saved file
 
 ### step 12.5
 
 - Nayan’s note: Had issues pushing from the right github account,
   previous github account was linked previously. Resolve by resetting
   the git config username and email.
+- Arina’s note: Committed without issues
 
 ### step 12.6
 
 - Nayan’s note: Had no issues
+- Arina’s note: Push successful
