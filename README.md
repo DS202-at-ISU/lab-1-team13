@@ -17,34 +17,34 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-### step 12.1
+### step 12.1 - Getting github and git account set up
 
 - Nayan’s Note: Had no issues
 - Arina’s note: R and RStudio already set up, no issues
 
-### step 12.2
+### step 12.2 - Joining github classroom for DS 2020
 
 - Nayan’s note: Had no issues
 - Arina’s note: Accepted GitHub Classroom invite
 
-### step 12.3
+### step 12.3 - Cloning the github to local machine
 
 - Nayan’s note: Had no issues
 - Arina’s note: Cloned fine, project opened in RStudio
 
-### step 12.4
+### step 12.4 - Changed local files, saved and committed through Git
 
 - Nayan’s note: Had no issues
 - Arina’s note: Edited and saved file
 
-### step 12.5
+### step 12.5 - Pushed local changes to Github online repo
 
 - Nayan’s note: Had issues pushing from the right github account,
   previous github account was linked previously. Resolve by resetting
   the git config username and email.
 - Arina’s note: Committed without issues
 
-### step 12.6
+### step 12.6 - Confirm and view changes changes were made to Github repo
 
 - Nayan’s note: Had no issues
 - Arina’s note: Push successful
