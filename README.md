@@ -21,21 +21,25 @@ you are done with your submission.
 
 - Nayan’s Note: Had no issues
 - Arina’s note: R and RStudio already set up, no issues
+- Dan's Note: No issues
 
 ### step 12.2 - Joining github classroom for DS 2020
 
 - Nayan’s note: Had no issues
 - Arina’s note: Accepted GitHub Classroom invite
+- Dan's Note: No issues
 
 ### step 12.3 - Cloning the github to local machine
 
 - Nayan’s note: Had no issues
 - Arina’s note: Cloned fine, project opened in RStudio
+- Dan's Note: No issues
 
 ### step 12.4 - Changed local files, saved and committed through Git
 
 - Nayan’s note: Had no issues
 - Arina’s note: Edited and saved file
+- Dan's Note: No issues
 
 ### step 12.5 - Pushed local changes to Github online repo
 
@@ -43,8 +47,10 @@ you are done with your submission.
   previous github account was linked previously. Resolve by resetting
   the git config username and email.
 - Arina’s note: Committed without issues
+- Dan's Note: No issues
 
 ### step 12.6 - Confirm and view changes changes were made to Github repo
 
 - Nayan’s note: Had no issues
 - Arina’s note: Push successful
+- Dan's Note: No issues
